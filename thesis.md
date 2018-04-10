@@ -1,9 +1,9 @@
-# Main Title
+# My Thesis
 
-## Subtitle 1
+## Introduction
 Information about the subtitle 1
 
-## Subtitle 2
+## Results
 Info subtitle 2
 
 
