@@ -7,6 +7,6 @@ Information about the subtitle 1
 Info subtitle 2
 
 ## Bibliography
-Reference1
-Reference2
-Reference3
+[1] Reference1
+[2] Reference2
+[3] Reference3
